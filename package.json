@@ -1,0 +1,28 @@
+{
+  "name": "edref",
+  "version": "0.1.0",
+  "description": "edref is an EDison REFerence project for getting started with an Intel Edison using Cylon.js.",
+  "main": "app.js",
+  "author": "codefoster",
+  "dependencies": {
+    "cylon": "^0.21.2",
+    "cylon-gpio": "^0.21.0",
+    "cylon-i2c": "^0.18.0",
+    "cylon-intel-iot": "^0.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/codefoster/edref.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "intel",
+    "edison"
+  ],
+  "license": "Apache-2.0"
+}
